@@ -1,0 +1,29 @@
+ body {
+     font: 18pt normal Arial;
+     text-align: center;
+     background-color: rgb(143, 145, 148);
+
+
+ }
+
+ h1 {
+     color: rgb(236, 94, 94);
+ }
+
+ input {
+     font: normal 14pt Arial;
+     width: 200px;
+     display: block;
+     margin: 0 auto;
+     margin-top: 20px;
+     border-radius: 7px;
+     border-color: rgb(236, 94, 94);
+
+ }
+
+ input#btn1 {
+     margin-top: 30px;
+     background-color: rgb(96, 100, 100);
+     color: azure;
+     border-radius: 7px;
+ }
